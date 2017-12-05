@@ -1,0 +1,3 @@
+TODO:
+ - add audio (Music and SFX)
+ - add fancier menus

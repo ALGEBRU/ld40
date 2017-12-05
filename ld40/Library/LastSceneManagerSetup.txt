@@ -1,0 +1,10 @@
+sceneSetups:
+- path: Assets/ld40.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/ld40DeathScreen.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/ld40StartMenu.unity
+  isLoaded: 1
+  isActive: 1
